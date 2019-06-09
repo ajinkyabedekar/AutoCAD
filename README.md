@@ -2,6 +2,14 @@
 
 This repository contains the drawings made in AutoCAD as a part of Engineering Graphics course.
 
+The team members were:
+
+1. Ajinkya Bedekar
+
+2. Ashish Kumar
+
+3. Shubhdeep Ghosh
+
 It contains the following:
 
 1. AutoCAD drawings
